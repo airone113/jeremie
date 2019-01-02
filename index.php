@@ -9,6 +9,13 @@
 <body>
     <h1>test</h1>
 	<h2>Allez LES BLEUS!!<h2>
+
+    <ul>
+        <li>salut</li>
+        <li>salut</li>
+        <li>salut</li>
+        <li>salut</li>
+    </ul>
     
 </body>
 </html>
